@@ -21,10 +21,6 @@ It explores five use cases — from trend analysis to predictive modeling — us
  UC4 - K-Means ,Found customer clusters 
  UC5 - Logistic Regression ,85% accuracy, Predicted cart abandonment 
 
-## 🎥 Project Demo
-
-Watch the demo directly here: 
- [Download / Play Demo Video](<!-- Failed to upload "Project_Demo_Recording.mp4" -->)
 
 **Description:**
 This video provides a 13-minute overview of the “Customer Purchase Pattern Prediction for E-commerce Platforms” capstone project.  
